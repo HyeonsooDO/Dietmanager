@@ -22,6 +22,11 @@
   - 각종 버튼 및 이미지 수정 및 추가
    #### 24.10.06 20:03 (누락 요소 추가)
     - 비동기 방식으로 API를 호출 할 때 다른 동작을 할 수 없도록 Dialog 출력
+
+  ### 24.12.19 15:37
+  - 아두이노와 HC06모듈로 통신하는 코드 추가
+  - 운동량 계산 및 가시적인 그래프 추가
+ 용량초과로 인한 구글드라이브 링크 업로드 : https://drive.google.com/file/d/18ANHrZ-2wMf4iOmPDKedCxK4586rDqNU/view?usp=sharing
  
 #### 참고 자료
 - OpenAI : https://stickode.tistory.com/1174
